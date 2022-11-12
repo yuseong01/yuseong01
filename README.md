@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=hello%20I'm%20YuSeong&fontSize=30)
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-61DAFB?style=flat&logo=React&logoColor=white"/>
