@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=hello%20I'm%20YuSeong&fontSize=30)
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
