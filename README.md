@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
 
-🏆 HACKY-TALKY 1st 2023.11.10-2023.11.11 
-
-[ 직장인 퇴근을 도와주는 실시간 대중교통 위치 알리미 앱]
+🏆 HACKY-TALKY 1st 2023.11.10-2023.11.11 [ 직장인 퇴근을 도와주는 실시간 대중교통 위치 알리미 앱]
 
 🏆 K-HACKATHON 4th 2023.05.15-2023.11.03 
 
