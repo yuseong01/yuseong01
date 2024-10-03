@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 
 🩵 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
-🩷 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-
-
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
+🩷 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"><a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
 
 🏆 K-HACKATHON ? 2024.04.04-ing [ 교육자의 부담을 덜기 위한 청각장애인 교육용 실시간 자막 및 번역 앱 ]
 
