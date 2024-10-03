@@ -31,9 +31,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
 
 🏆 HACKY-TALKY 1st 2023.11.10-2023.11.11 
+
 [ 직장인 퇴근을 도와주는 실시간 대중교통 위치 알리미 앱]
 
 🏆 K-HACKATHON 4th 2023.05.15-2023.11.03 
+
 [ 쓰레기 무단투기에 대한 공무원들의 민원 부담을 줄여주는 민원 간소화 및 게릴라가드닝 봉사 앱 ]
 
 🏆 SJU 컴퓨터공학과 학술제 장려상 
