@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
 
+🎖️ SJU 창업동아리 부장 2020.03.02-2020.06.30
+
+
 🏆 K-HACKATHON ? 2024.04.04-ing [ 교육자의 부담을 덜기 위한 청각장애인 교육용 실시간 자막 및 번역 앱 ]
 
 🏆 HACKY-TALKY 1st 2023.11.10-2023.11.11 [ 직장인 퇴근을 도와주는 실시간 대중교통 위치 알리미 앱]
@@ -51,7 +54,6 @@ Here are some ideas to get you started:
 
 🏆 SJU 코딩경시대회 4th 2019.12.04 [ 알고리즘 문제 풀이 교내대회 ]
 
-🎖️ SJU 창업동아리 부장 2020.03.02-2020.06.30
 
 
 
