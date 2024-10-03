@@ -29,10 +29,19 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
-🏆 HACKY-TALKY 1st 2023.11.10-2023.11.11 [ 직장인 퇴근을 도와주는 실시간 대중교통 위치 알리미 앱]
-🏆 K-HACKATHON 4th 2023.05.15-2023.11.03 [ 쓰레기 무단투기에 대한 공무원들의 민원 부담을 줄여주는 민원 간소화 및 게릴라가드닝 봉사 앱 ]
-🏆 SJU 컴퓨터공학과 학술제 장려상 [ 대학 인원간 봉사 경쟁을 통해 자신의 캐릭터와 집을 꾸밀 수 있는 앱 ]
-🏆 SJU SW/AI 9회 해커톤 2st 2020.12.29 [ 동작인식을 통해 비대면 시험 감독을 해주는 웹 ]
+
+🏆 HACKY-TALKY 1st 2023.11.10-2023.11.11 
+[ 직장인 퇴근을 도와주는 실시간 대중교통 위치 알리미 앱]
+
+🏆 K-HACKATHON 4th 2023.05.15-2023.11.03 
+[ 쓰레기 무단투기에 대한 공무원들의 민원 부담을 줄여주는 민원 간소화 및 게릴라가드닝 봉사 앱 ]
+
+🏆 SJU 컴퓨터공학과 학술제 장려상 
+[ 대학 인원간 봉사 경쟁을 통해 자신의 캐릭터와 집을 꾸밀 수 있는 앱 ]
+
+🏆 SJU SW/AI 9회 해커톤 2st 2020.12.29 
+[ 동작인식을 통해 비대면 시험 감독을 해주는 웹 ]
+
 🏆 SJU 코딩에피소드경진대회 입상 2020.12.11 [ 코딩을 하면서 성장했던 과정 ]
 🏆 SJU 피칭&창업멘토링데이 장려상 2020.09.04 [ 반려동물 피부질환 진단 앱 ]
 🏆 SJU 스타트업창업캠프 우수상 2020.07.16 [ 반려동물 피부질환 진단 앱 ]
