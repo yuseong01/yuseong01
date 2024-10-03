@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning swift!
 - ⚡ Making apps is fun so I study whenever I have time!
--  Someday, I'll create a useful app that's absolutely necessary😄
+- Someday, I'll create a useful app that's absolutely necessary😄
+- 🎀 Naver Wednesday Webtoon [ 수인보호소에서 남주를 입양해버렸다🐻‍❄️ ] Assistant 2023.08.29-ing
+- 🎀 Naver Webtoon [ 커피도둑☕️ ] Assistant 2020.07.31-2021.04.09
+
+
 
 
 🩵 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
