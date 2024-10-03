@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 **yuseong** is a ✨ _special_ ✨ because She's continuing to do what she wants to do!
 
 - 🌱 I’m currently learning swift!
-- ⚡ Making apps is fun So I study whenever I have time!
+- ⚡ Making apps is fun so I study whenever I have time!
 -  Someday, I'll make a good-looking app😄
 
 
