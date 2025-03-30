@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi💕%20I'm%20YuSeong&fontSize=30)
 
 
-**yuseong** is so ✨ _special_ ✨ because I'm continuing to do what I want to do!
+**yuseong** is so ✨ _special_ ✨ because I continue to do what I want to do!
 
-- 🌱 I’m currently learning swift!
-- ⚡ Making apps is fun so I study whenever I have time!
-- Someday, I'll create a useful app that's absolutely necessary😄
+- 🌱 I’m currently learning C#!
+- ⚡ Making games is fun, so I study whenever I have time!
+- Someday, I'll create an enjoyable game that makes people happy😄
 - 🎀 Naver Wednesday Webtoon [ 수인보호소에서 남주를 입양해버렸다🐻‍❄️ ] Assistant 2023.08.29-ing
 - 🎀 Naver Webtoon [ 커피도둑☕️ ] Assistant 2020.07.31-2021.04.09
 
