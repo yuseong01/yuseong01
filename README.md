@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi💕%20I'm%20YuSeong&fontSize=30)
 
 
-**yuseong** is a ✨ _special_ ✨ because I'm continuing to do what I want to do!
+**yuseong** is so ✨ _special_ ✨ because I'm continuing to do what I want to do!
 
 - 🌱 I’m currently learning swift!
 - ⚡ Making apps is fun so I study whenever I have time!
