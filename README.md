@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm so ✨ _special_ ✨ because I keep doing what I want to do!
 
-블로그 => https://dochi-programming.tistory.com
+블로그: https://dochi-programming.tistory.com
 
 - 🌱 I’m currently learning C#!
 - ⚡ Making games is fun, so I study whenever I have time!
