@@ -22,8 +22,6 @@ I'm so ✨ _special_ ✨ because I keep doing what I want to do!
 - 🌱 I’m currently learning C# & Unity!
 - ⚡ Making games is fun, so I study whenever I have time!
 - Someday, I'll create an enjoyable game that makes people happy😄
-- 🎀 Naver Wednesday Webtoon [ 수인보호소에서 남주를 입양해버렸다🐻‍❄️ ] Assistant 2023.08.29-ing
-- 🎀 Naver Webtoon [ 커피도둑☕️ ] Assistant 2020.07.31-2021.04.09
 
 
 
