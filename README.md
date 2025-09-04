@@ -21,9 +21,7 @@ I'm so ✨ _special_ ✨ because I keep doing what I want to do!
 
 - 🌱 I’m currently learning C# & Unity!
 - ⚡ Making games is fun, so I study whenever I have time!
-- Someday, I'll create an enjoyable game that makes people happy😄
-
-
+- Someday, I'll create an enjoyable game that makes people happy😄<br><br>
 
 💛 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
