@@ -24,7 +24,7 @@ I'm so ✨ _special_ ✨ because I keep doing what I want to do!
 - Someday, I'll create an enjoyable game that makes people happy😄
 
 
-💛<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+💛 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
 
 🩵 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
