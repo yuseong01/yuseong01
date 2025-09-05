@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi💕%20I'm%20Yuseong&fontSize=30)
 
-I'm so ✨ _special_ ✨ because I keep doing what I want to do!
-
 🎀 블로그(blog): https://dochi-programming.tistory.com
-
-- 🌱 I’m currently learning C# & Unity!
-- ⚡ Making games is fun, so I study whenever I have time!
-- Someday, I'll create an enjoyable game that makes people happy😄<br><br>
 
 💛 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
