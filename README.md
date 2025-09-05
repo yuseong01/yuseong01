@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Yuseong&fontSize=30)
-
- 블로그(blog): https://dochi-programming.tistory.com
+블로그(blog): https://dochi-programming.tistory.com
 
  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/><img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
  
