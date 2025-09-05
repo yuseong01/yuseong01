@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20Yuseong👋&fontSize=35&fontAlign=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20I'm%20Yuseong&fontSize=30)
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science major @ SJU  
