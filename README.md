@@ -2,8 +2,10 @@
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science major @ SJU  
-- ✨ Passionate about **software development, Unity, and problem-solving**  
+- ✨ Passionate about **software development, Unity, and problem-solving**
 - 📖 Writing tech posts on my [Blog](https://dochi-programming.tistory.com)  
+- 🎀 Naver Wednesday Webtoon [ 수인보호소에서 남주를 입양해버렸다🐻‍❄️ ] Assistant 2023.08.29-ing
+- 🎀 Naver Webtoon [ 커피도둑☕️ ] Assistant 2020.07.31-2021.04.09
 
 ---
 
