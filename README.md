@@ -42,5 +42,5 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: dog2655@naver.com
+- 📧 Email: yuseong010225@gmail.com
 - 📝 Blog: [dochi-programming.tistory.com](https://dochi-programming.tistory.com)  
